@@ -1,28 +1,30 @@
-## 💻 Mohamed Lakhdar  
+## 💻 **Mohamed Lakhdar**  
 
-### 🌟 Computer Science Student | Cybersecurity & Networking Enthusiast  
+### 🌟 **Computer Science Student | Cybersecurity & Networking Enthusiast**  
 
 I am a **second-year Computer Science student** at **FSSM** specializing in **Applied Computer Science**. I have a strong foundation in **Data Structures & Algorithms (DSA)** and **C programming**. Additionally, I am a student at **1337**, where I deepen my expertise in **low-level programming, system administration, and cybersecurity**. Passionate about problem-solving, networking, and automation, I actively participate in **hackathons** and **open-source projects**.  
 
 ---
 
-### 🏆 GitHub Stats  
+### 🏆 **GitHub Stats**  
 
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medlkhdr&layout=compact&theme=dark" alt="Most Used Languages" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=medlkhdr&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />  
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medlkhdr&theme=dark&hide_border=true" alt="GitHub Streak" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medlkhdr&layout=compact&theme=radical" alt="Most Used Languages" />  
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medlkhdr&theme=radical&hide_border=true" alt="GitHub Streak" />  
 </div>  
 
 ---
 
-### 🛠️ Skills & Technologies  
+### 🛠️ **Skills & Technologies**  
 
-- **Programming Languages:** C, Bash, JavaScript, HTML, CSS  
+- **Programming Languages:** C, Bash, JavaScript, HTML, CSS, Python  
 - **Operating Systems:** Linux, Windows, Unix  
 - **Networking:** TCP/IP, DNS, DHCP, Firewalls, VPN  
-- **Tools & Platforms:** Git, Vim, Docker, Wireshark, Virtual Machines  
-- **Specialties:** System Administration, Shell Scripting, Algorithms & Data Structures  
+- **Tools & Platforms:** Git, Vim, Docker, Wireshark, Virtual Machines, Kubernetes  
+- **Specialties:** System Administration, Shell Scripting, Algorithms & Data Structures, Penetration Testing  
 
 <p align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />  
@@ -31,32 +33,50 @@ I am a **second-year Computer Science student** at **FSSM** specializing in **Ap
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />  
 </p>  
 
 ---
 
-### 🌐 Connect with Me  
+### 🌐 **Connect with Me**  
 
 <p align="center">  
-  <a href="mailto:m0h4m3dl4khd4r@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" /></a>  
-  <a href="https://x.com/m3dlkhdr"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" /></a>  
-  <a href="https://www.instagram.com/m0h4mm3d.l4khd4r"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" /></a>  
+  <a href="mailto:m0h4m3dl4khd4r@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" height="40" /></a>  
+  <a href="https://x.com/m3dlkhdr"><img src="https://img.icons8.com/color/48/000000/twitter.png" height="40" /></a>  
+  <a href="https://www.linkedin.com/in/medlkhdr"><img src="https://img.icons8.com/color/48/000000/linkedin.png" height="40" /></a>  
+  <a href="https://www.instagram.com/m0h4mm3d.l4khd4r"><img src="https://img.icons8.com/color/48/000000/instagram.png" height="40" /></a>  
   <a href="https://codeforces.com/profile/Medlkhdddr"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Codeforces_logo.svg/128px-Codeforces_logo.svg.png" height="40" /></a>  
 </p>  
 
 ---
 
-### 📊 GitHub Profile Views  
+### 📊 **GitHub Profile Views**  
 
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=medlkhdr&color=green&style=flat-square" alt="Profile Views" />  
+  <img src="https://komarev.com/ghpvc/?username=medlkhdr&color=blueviolet&style=for-the-badge" alt="Profile Views" />  
 </p>  
 
 ---
 
-### 🔥 GitHub Activity | Geto Suguru Style  
+### 🔥 **GitHub Activity | Geto Suguru Style**  
 
 <div align="center">  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=medlkhdr&theme=tokyo-night&bg_color=000000&color=00ff99&line=ff0066&point=ffffff&hide_border=true" alt="GitHub Activity Graph" />  
-  <br />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2g3MXBz
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=medlkhdr&theme=react-dark&bg_color=000000&color=00ff99&line=ff0066&point=ffffff&hide_border=true" alt="GitHub Activity Graph" />  
+</div>  
+
+---
+
+### 🎮 **Interactive Terminal**  
+
+```bash
+Welcome to Mohamed's Terminal!  
+Type 'help' to see available commands.  
+
+$ help  
+Available commands:  
+- about: Learn more about me  
+- skills: View my skills  
+- projects: Explore my projects  
+- contact: Get in touch  
+- exit: Close the terminal  
