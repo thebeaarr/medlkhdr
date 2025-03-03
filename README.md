@@ -67,16 +67,5 @@ I am a **second-year Computer Science student** at **FSSM** specializing in **Ap
 
 ---
 
-### 🎮 **Interactive Terminal**  
-
-```bash
-Welcome to Mohamed's Terminal!  
-Type 'help' to see available commands.  
-
-$ help  
-Available commands:  
-- about: Learn more about me  
-- skills: View my skills  
-- projects: Explore my projects  
-- contact: Get in touch  
-- exit: Close the terminal  
+🌈 Dynamic Badges
+<p align="center"> <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a" /> <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" /> <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" /> <img src="https://img.shields.io/badge/Skills-Cybersecurity-informational?style=flat&logo=security&logoColor=white&color=2bbc8a" /> </p>
