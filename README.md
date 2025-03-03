@@ -40,8 +40,8 @@ I am a **second-year Computer Science student** at **FSSM** specializing in **Ap
 <p align="center">  
   <a href="mailto:m0h4m3dl4khd4r@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" /></a>  
   <a href="https://x.com/m3dlkhdr"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" /></a>  
-  <a href="https://www.instagram.com/m0h4mm3d.l4khd4r"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" /></a>  
-  <a href="https://codeforces.com/profile/Medlkhdddr"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Codeforces_logo.png" height="40" /></a>  
+  <a href="https://www.instagram.com/m0h4mm3d.l4khd4r"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" /></a>  
+  <a href="https://codeforces.com/profile/Medlkhdddr"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Codeforces_logo.svg/128px-Codeforces_logo.svg.png" height="40" /></a>  
 </p>  
 
 ---
@@ -54,8 +54,9 @@ I am a **second-year Computer Science student** at **FSSM** specializing in **Ap
 
 ---
 
-### 🔥 Cursed Energy & Cybersecurity  
+### 🔥 GitHub Activity | Geto Suguru Style  
 
-```diff  
-- "Throughout heaven and earth, I alone am the honored one."  
-+ Follow me on my journey through cybersecurity and open-source development, channeling the ambition of Geto Suguru!
+<div align="center">  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=medlkhdr&theme=tokyo-night&bg_color=000000&color=00ff99&line=ff0066&point=ffffff&hide_border=true" alt="GitHub Activity Graph" />  
+  <br />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2g3MXBz
