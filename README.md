@@ -69,11 +69,3 @@ I am a **second-year Computer Science student** at **FSSM** specializing in **Ap
 
 💻  Dynamic Badges
 <p align="center"> <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a" /> <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" /> <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" /> <img src="https://img.shields.io/badge/Skills-Cybersecurity-informational?style=flat&logo=security&logoColor=white&color=2bbc8a" /> </p>
-
- <svg xmlns="http://www.w3.org/2000/svg" fill="none">
-        <foreignObject width="100%" height="100%"> 
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <!--we can include <style> elements, html elements etc. here now, with a few restrictions! Note it must be in xHTML style (so <img src="" /> not <img src="" > to be valid -->
-            </div>
-       </foreignObject>
-</svg>
