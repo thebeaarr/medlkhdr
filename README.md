@@ -68,6 +68,10 @@
 ### 🎖 **Badges & Achievements**  
 
 <p align="center">  
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/black/mlakhdar" alt="mlakhdar's 42 Badge" />  
+  </a>
+  <br>
   <img src="https://img.shields.io/badge/Programming-C-informational?style=flat-square&logo=c&logoColor=white&color=2bbc8a" />  
   <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=2bbc8a" />  
   <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2bbc8a" />  
@@ -75,7 +79,6 @@
 </p>  
 
 ---
-### 📜 **Quote I Live By**  
+### 📝 **Quote I Live By**  
 > **"We don't even know what it is yet. We don't know what it can be. We don't know what it will be. We know that it is cool."**  
 > – **Mark Zuckerberg**, *The Social Network*
-
