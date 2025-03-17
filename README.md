@@ -20,7 +20,7 @@
 
 #### 🚀 **Languages & Frameworks**  
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=c,bash,html,css,js,python" height="50" />  
+  <img src="https://skillicons.dev/icons?i=c/cpp,bash,html,css,js,python" height="50" />  
 </p>  
 
 #### 💻 **Operating Systems & Environments**  
