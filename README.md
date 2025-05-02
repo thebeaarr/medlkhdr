@@ -55,7 +55,7 @@
 
 ---
 
-### 🔥 **GitHub Activity | Geto Suguru Style**  
+### 🔥 **GitHub Activity**  
 
 <div align="center">  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=medlkhdr&theme=tokyo-night&bg_color=0d1117&color=00ff99&line=ff0066&point=ffffff&hide_border=true" alt="GitHub Activity Graph" />  
