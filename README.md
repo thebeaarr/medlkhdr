@@ -1,59 +1,64 @@
+# Hi, I'm thebeaarr 👋
 
-A curious student diving into cybersecurity and low-level programming.  
-I’m passionate about Linux, C/C++, and exploring how systems really work.
+> Clean • Minimal • Aesthetic
 
-🐧 **Setup:** Kali Linux + VMs for hands-on testing   
-💻 **Languages:** C, C++, Java, Python  
-📚 **Focus:** Foundations of security & coding  
+![banner](https://raw.githubusercontent.com/thebeaarr/thebeaarr/main/assets/profile-banner.png)
+
+## About Me
+Hi — I'm thebeaarr. I build things with code, love clean design, and enjoy learning new tools every day. I focus on clarity, readable code, and tidy repos.
+
+- 🔭 Currently working on: Project-Name (replace with a repo)
+- 🌱 Learning: TypeScript, Design Systems, Accessibility
+- 💬 Ask me about: Web dev, UI/UX, clean code
+- ⚡ Fun fact: I love minimal UI and calming color palettes
+
+## ✨ Highlights
+- Languages & tools: JavaScript • TypeScript • React • Node.js • TailwindCSS • Figma
+- Open to collaborations and small freelance projects
+
+## 📊 GitHub Stats
+<!-- GitHub readme stats -->
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=thebeaarr&show_icons=true&theme=tokyonight&hide_border=true" alt="thebeaarr's GitHub stats" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebeaarr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<!-- Optional streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thebeaarr&theme=tokyonight" alt="GitHub streak" />
+
+## 🚀 Featured Projects
+- [Project One](https://github.com/thebeaarr/project-one) — Short description of what makes it cool.
+- [Project Two](https://github.com/thebeaarr/project-two) — Short description or what you learned.
+- [Project Three](https://github.com/thebeaarr/project-three) — Small utility or creative experiment.
+
+(Replace project links above with your actual repo URLs.)
+
+## 🛠️ Tools & Tech
+React • Next.js • Vite • TypeScript • Node.js • Express • GraphQL • TailwindCSS • Figma • Prisma
+
+## 📫 Find me
+[![Twitter Badge](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-YourName-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourhandle)
+[![Website Badge](https://img.shields.io/badge/Website-portfolio-282C34?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://yourwebsite.com)
+
+## 💡 Want this look?
+- Create a repo named `thebeaarr`
+- Add an `assets/profile-banner.png` (or update the banner URL)
+- Commit this README.md to that repo
+- Pin 3–6 of your best repos on your profile (they show prominently)
+- Replace the placeholder links and text above
 
 ---
 
-### 🛠️ Tech Stack
+If you'd like, I can:
+- Customize this README with your actual projects, links, and short descriptions
+- Generate a banner image suggestion (color palette, text, size)
+- Produce a GitHub Action workflow to auto-update things like last blog post or generated cards
 
-<div align="center">
-
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) 
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=thebeaarr&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41" alt="GitHub Stats" />
-
-</div>
-
----
-
-### 🌱 Learning Journey
-
-Focused on:
-
-- Understanding how networks work and communicate  
-- Mastering Linux system administration basics  
-- Writing efficient code in C and Python  
-- Grasping core cybersecurity concepts  
-- Setting up and experimenting with virtual environments  
-
----
-
-### 📫 Connect with Me
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rigbylhacker)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thebearrrr/)
-
-</div>
-
----
-
-*Learning one step at a time*  
+Which would you like first — update the README with your real projects and socials, or make a banner image and color palette to match? Also tell me your preferred style: dark & moody, pastel & soft, or crisp & minimal.
