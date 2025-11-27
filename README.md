@@ -1,3 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A001F&background=000000&width=650&lines=; ; ; ;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?bg_color=000000&color=0a001f&line=25004f&point=0a001f&hide_border=true" width="100%"/>
 </p>
+
