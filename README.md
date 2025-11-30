@@ -1,2 +1,3 @@
-
-<div class="tenor-gif-embed" data-postid="14150503935365914274" data-share-method="host" data-aspect-ratio="1.31737" data-width="100%"><a href="https://tenor.com/view/suguru-geto-rebola-gif-14150503935365914274">Suguru Geto Rebola Sticker</a>from <a href="https://tenor.com/search/suguru+geto-stickers">Suguru Geto Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+  <img src="https://media.tenor.com/xGCwW0xAnqIAAAAi/suguru-geto-rebola.gif" width="300"/>
+</p>
